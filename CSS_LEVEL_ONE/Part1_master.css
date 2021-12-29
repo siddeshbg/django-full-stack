@@ -1,0 +1,22 @@
+/* This is a comment */
+/* Basic Format */
+/* selected tag {
+  property: value;
+} */
+
+h1 {
+  color: blue
+}
+
+li {
+  /* Google search color picker */
+  color: rgb(204, 87, 14)
+}
+
+p {
+  color: #0e8acc
+}
+
+h4{
+  color: rgba(204, 87, 14, 1)
+}

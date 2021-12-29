@@ -1,0 +1,22 @@
+body {
+  /* background-color: grey; */
+  background: url(https://media.cntraveler.com/photos/57fea9ec8584f8cd20e65f15/16:9/w_2580,c_limit/Aerial-One&OnlyReethiRah-Maldives-CRHotel.jpg);
+  background-repeat: no-repeat
+  
+}
+
+div {
+  background: blue;
+  border-color: orange;
+  border-width: 3px;   /*thin;*/
+  border-style: double;
+}
+
+p{
+  color: yellow;
+}
+
+span {
+  background: red;
+  color: black
+}
